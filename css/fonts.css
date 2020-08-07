@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'PFDin';
+	src: url('../fonts/PFDin.eot');
+	src: local('PFDinl'), local('PFDin'),
+		url('../fonts/PFDin.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/PFDin.woff') format('woff'),
+		url('../fonts/PFDin.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
